@@ -16,4 +16,4 @@ Meu portfólio de design (identidade visual, UI/UX): **[lpcb.myportfolio.com](ht
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/SEU-USUARIO-AQUI) · laupimenteldesign@gmail.com
+[LinkedIn]((http://linkedin.com/in/laura-pimentel/)) · laupimenteldesign@gmail.com
